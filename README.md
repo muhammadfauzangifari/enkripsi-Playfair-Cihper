@@ -1,4 +1,4 @@
-# enkripsi-Playfair-Cihper
+# Enkripsi-Playfair-Cihper
 Nama : Muhammad Fauzan Gifari
 NIM : 312210428
 Kelas : TI.22.A1
